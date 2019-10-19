@@ -45,4 +45,7 @@ def add_s(plural)
   plural.each do |num|
     counter = 0 
     counter += num
+  end
+  counter
+end
     
