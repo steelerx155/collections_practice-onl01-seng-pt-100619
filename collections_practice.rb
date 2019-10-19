@@ -34,4 +34,5 @@ def kesha_maker(kesha)
     name[2] = "$"
   end
 end  
-  
+ 
+ def find_a 
