@@ -20,7 +20,8 @@ def sort_array_char_count(animals)
  
  def swap_elements(swap)
    swap = ["blake", "ashley", "scott"]
-   swap.sort do |a, b|
+   swap.sort_by {|x| z.index}
+ end
      
   
   
