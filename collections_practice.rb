@@ -36,5 +36,5 @@ def kesha_maker(kesha)
 end
  
  def find_a(letter)
-   letter.find_all[]
+   letter.find_all []
  end
