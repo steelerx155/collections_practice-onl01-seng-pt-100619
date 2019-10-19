@@ -23,6 +23,9 @@ def sort_array_char_count(animals)
    swap[0], swap[1], swap[2]= swap[0], swap[2], swap[1]
  end
  
- def reverse_array    
+ def reverse_array (integers)
+   integers = [1,9,7,8,3]
+   integers.reverse_array
+ end
   
   
