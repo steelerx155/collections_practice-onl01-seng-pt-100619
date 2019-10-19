@@ -20,7 +20,7 @@ def sort_array_char_count(animals)
  
  def swap_elements(swap)
    swap = ["blake", "ashley", "scott"]
-   swap[1], swap[2], swap[3] = swap[2], swap[1]
+   swap[1], swap[2], swap[0] = swap[2], swap[1]
  end
      
   
