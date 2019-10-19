@@ -43,7 +43,7 @@ end
 
 def sum_array(number)
   counter = 0 
-  plural.each do |num|
+  number.each do |num|
     counter += num
   end
   counter
