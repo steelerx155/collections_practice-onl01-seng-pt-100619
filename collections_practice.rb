@@ -17,6 +17,6 @@ def sort_array_char_count(animals)
   animals.sort_by {|x| x.length}
     
   end
-end  
+ 
   
   
