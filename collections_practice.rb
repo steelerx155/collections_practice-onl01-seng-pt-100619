@@ -32,7 +32,8 @@ def kesha_maker(kesha)
   kesha = ["blake", "ashley", "scott"]
   kesha.each do |name|
     name[2] = "$"
-end  
+ end  
+end
  
  def find_a(leter)
    letter
