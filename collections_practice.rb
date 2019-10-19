@@ -40,3 +40,6 @@ end
      element[0] == "a"
      end
 end
+
+def add_s(plural)
+  plural
