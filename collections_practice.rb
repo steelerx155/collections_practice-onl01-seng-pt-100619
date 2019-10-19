@@ -12,5 +12,11 @@ def sort_array_desc(integers)
   end
 end
 
-def sort_array_char_count(integers)
+def sort_array_char_count(animals)
+  animals = ["dogs", "cat", "Horses"]
+  animals.sort do |a, b|
+    a <=> b 
+  end
+end  
+  
   
