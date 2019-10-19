@@ -39,3 +39,4 @@ end
    letter.find_all do |element|
      element[0] == "a"
      end
+end
