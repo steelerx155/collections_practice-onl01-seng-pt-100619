@@ -51,7 +51,7 @@ end
 
 def add_s(plural)
   plural.collect do |word|
-    [1]
+  word  [1]
     
   
     
