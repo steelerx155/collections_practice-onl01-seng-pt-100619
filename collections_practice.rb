@@ -38,4 +38,3 @@ end
  def find_a(leter)
    letter
  end
-end 
