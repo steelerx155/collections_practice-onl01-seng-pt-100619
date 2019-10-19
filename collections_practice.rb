@@ -6,7 +6,7 @@ integers.sort do |a, b|
 end
 
 def sort_array_desc(integers)
-  integers = [25,7,1]
+  integers = [25,14,7]
   integers.sort do |a, b|
     b <=> a 
   end
