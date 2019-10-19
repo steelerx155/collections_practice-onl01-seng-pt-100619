@@ -42,4 +42,4 @@ end
 end
 
 def add_s(plural)
-  plural
+  plural = []
