@@ -29,8 +29,7 @@ def sort_array_char_count(animals)
  end
   
 def kesha_maker(kesha)
-  kesha = ["blake", "ashley", "scott"]
-  kesha.each do |name|
+   kesha.each do |name|
     name[2] = "$"
   end
 end  
