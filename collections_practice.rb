@@ -37,5 +37,5 @@ end
  
  def find_a(letter)
    letter.find_all do |element|
-     
+     element[0] 
      end
