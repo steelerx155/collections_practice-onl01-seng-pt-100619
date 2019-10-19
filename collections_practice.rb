@@ -50,7 +50,8 @@ def sum_array(number)
 end
 
 def add_s(plural)
-  plural.collect do |word|[1]
+  plural.collect do |word|
+    [1]
     
   
     
