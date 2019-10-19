@@ -36,5 +36,6 @@ def kesha_maker(kesha)
 end
  
  def find_a(letter)
-   letter.find_all []
- end
+   letter.find_all do |element|
+     
+     end
