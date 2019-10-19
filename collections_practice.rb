@@ -49,6 +49,7 @@ def sum_array(number)
   counter
 end
 
-def add_s
+def add_s(plural)
+  
   
     
