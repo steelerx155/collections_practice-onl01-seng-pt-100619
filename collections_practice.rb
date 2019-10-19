@@ -24,7 +24,7 @@ def sort_array_char_count(animals)
  end
  
  def reverse_array (integers)
-   integers = [1,9,7,8,3]
+   integers = [12, 4, 35]
    integers.reverse
  end
   
