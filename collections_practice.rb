@@ -54,4 +54,4 @@ def add_s(plural)
   word << "s"
     
   
-    
+end
