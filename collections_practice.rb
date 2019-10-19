@@ -51,6 +51,7 @@ end
 
 def add_s(plural)
   plural.each_with_index.collect do |word, index|
+    if index !=
   word << "s"
     
   
