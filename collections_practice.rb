@@ -41,7 +41,7 @@ end
      end
 end
 
-def add_s(plural)
+def sum_array(number)
   counter = 0 
   plural.each do |num|
     counter += num
