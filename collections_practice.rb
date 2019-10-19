@@ -33,5 +33,5 @@ def kesha_maker(kesha)
   kesha.each do |name|
     kesha[2] = "$"
   end
-  
+end  
   
