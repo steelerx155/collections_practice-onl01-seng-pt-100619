@@ -48,4 +48,6 @@ def sum_array(number)
   end
   counter
 end
+
+
     
